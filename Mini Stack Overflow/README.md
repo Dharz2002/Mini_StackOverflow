@@ -1,5 +1,5 @@
 # Mini StackOverflow
-A mini website for sharing question & answers.
+A mini website for posting questions & answers.
 
 ## Features 
 
