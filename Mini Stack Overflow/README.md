@@ -12,7 +12,7 @@ A mini website for posting questions & answers.
 	<li>User can write answer for his own question</li>
 	<li>User can edit question/answer</li>
 	<li>User can search questions</li>
-	<li>User can sort the question by latest/old</li>
-	<li>User can sort the answer by latest/old</li>
+	<li>User can sort the questions by latest/old</li>
+	<li>User can sort the answers by latest/old</li>
 </ol>  
 
